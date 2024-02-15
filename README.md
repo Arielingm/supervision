@@ -34,7 +34,7 @@ Asegúrate de tener las siguientes versiones de las librerías instaladas:
 
 ![Video de Demostración](video_demostracion.gif)
 
-Para ver el video completo, puedes descargarlo [aquí](enlace_del_video.mp4).
+Para ver el video completo, puedes descargarlo [aquí]([enlace_del_video.mp4](https://youtube.com/shorts/c1dGFykvpVU?feature=share)).
 
 ---
 
